@@ -1,4 +1,4 @@
 package com.example.calender.repository;
 
-public class CalenderRepositoryImpl {
+public class CalenderRepositoryImpl implements CalenderRepository{
 }
